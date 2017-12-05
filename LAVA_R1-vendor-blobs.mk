@@ -441,4 +441,8 @@ PRODUCT_COPY_FILES += \
     vendor/Lava/LAVA_R1/proprietary/lib/hw/sensors.mt6737m.so:system/lib/hw/sensors.mt6737m.so \
     vendor/Lava/LAVA_R1/proprietary/lib64/hw/sensors.mt6737m.so:system/lib64/hw/sensors.mt6737m.so \
     vendor/Lava/LAVA_R1/proprietary/lib/hw/radio.fm.mt6737m.so:system/lib/hw/radio.fm.mt6737m.so \
+    vendor/Lava/LAVA_R1/proprietary/lib/libc.so:system/lib/libc.so \
+    vendor/Lava/LAVA_R1/proprietary/lib/libc++.so:system/lib/libc++.so \
+    vendor/Lava/LAVA_R1/proprietary/lib64/libc.so:system/lib64/libc.so \
+    vendor/Lava/LAVA_R1/proprietary/lib64/libc++.so:system/lib64/libc++.so
     
